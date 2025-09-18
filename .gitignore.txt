@@ -1,0 +1,30 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment and settings
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Publish outputs
+*.publish.xml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Other
+wwwroot/images/games/*
+!wwwroot/images/games/.gitkeep

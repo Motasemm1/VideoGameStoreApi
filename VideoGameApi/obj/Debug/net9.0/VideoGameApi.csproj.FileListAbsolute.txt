@@ -1,0 +1,496 @@
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.Development.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.staticwebassets.endpoints.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.exe
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.deps.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.runtimeconfig.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.AssemblyReference.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfoInputs.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfo.cs
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.CoreCompileInputs.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cs
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\scopedcss\bundle\VideoGameApi.styles.css
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.development.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGam.F927AF5E.Up2Date
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\refint\VideoGameApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.genruntimeconfig.cache
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\obj\Debug\net9.0\ref\VideoGameApi.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Scalar.AspNetCore.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Core.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Identity.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Humanizer.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.ClientModel.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.CodeDom.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Memory.Data.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\apiVideoGameProject\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.Development.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.staticwebassets.endpoints.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.exe
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.deps.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.runtimeconfig.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Core.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Identity.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Humanizer.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Scalar.AspNetCore.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.ClientModel.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.CodeDom.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Memory.Data.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.AssemblyReference.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfoInputs.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfo.cs
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.CoreCompileInputs.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cs
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\scopedcss\bundle\VideoGameApi.styles.css
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.development.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGam.F927AF5E.Up2Date
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\refint\VideoGameApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.genruntimeconfig.cache
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\ref\VideoGameApi.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\.Net\api Projects\apiVideoGameCRUD\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.staticwebassets.runtime.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.AssemblyReference.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfoInputs.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.AssemblyInfo.cs
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.csproj.CoreCompileInputs.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cs
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\refint\VideoGameApi.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.Development.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\appsettings.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.staticwebassets.endpoints.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.staticwebassets.runtime.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.exe
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.deps.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.runtimeconfig.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\VideoGameApi.pdb
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Core.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Azure.Identity.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Humanizer.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\Scalar.AspNetCore.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.ClientModel.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.CodeDom.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Memory.Data.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\scopedcss\bundle\VideoGameApi.styles.css
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.development.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGam.F927AF5E.Up2Date
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\VideoGameApi.genruntimeconfig.cache
+F:\.Net\api Projects\CleanArchtecture\VideoGameApi\VideoGameApi\obj\Debug\net9.0\ref\VideoGameApi.dll
