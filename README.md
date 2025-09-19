@@ -53,32 +53,32 @@ The solution is structured for **maintainability** and **future scalability**, m
 
 Web/
 
-├── Controllers/        # User, VideoGame, Order, Genre, Publisher Controllers
+├── Controllers/          # User, VideoGame, Order, Genre, Publisher Controllers
 
-├── Middlewares/        # Exception Middleware
+├── Middlewares/          # Exception Middleware
 
 
 Application/
 
-├── DTOs/               # DTOs for Games, Users, Orders, Genres, Publishers
+├── DTOs/                 # DTOs for Games, Users, Orders, Genres, Publishers
 
-├── Interfaces/         # Service Interfaces
+├── Interfaces/           # Service Interfaces
 
-└── Services/           # Business Logic
+└── Services/             # Business Logic
 
 
 Infrastructure/
 
-├── Data/               # EF Core DbContext
+├── Data/                 # EF Core DbContext
 
-├── Repositories/       # Repository Implementations
+├── Repositories/         # Repository Implementations
 
-└── Interfaces/         # Repository Interfaces
+└── Interfaces/           # Repository Interfaces
 
 
 Domain/
 
-└── Entities/           # User, VideoGame, Order, Genre, Publisher, OrderItem
+└── Entities/             # User, VideoGame, Order, Genre, Publisher, OrderItem
 
 ---
 
