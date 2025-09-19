@@ -1,4 +1,4 @@
-# 🎮 VideoGameStoreApi
+## 🎮 VideoGameStoreApi
 
 A fully-featured **RESTful Web API** for a video game store, allowing users to register, browse games, place orders, and manage their purchases.  
 The project follows **Clean Architecture** principles and demonstrates best practices for building scalable .NET applications.
@@ -90,21 +90,21 @@ role → Role (Admin / User)
 
 exp → Expiration timestamp
 
-📬 API Testing
+##📬 API Testing
 The API has been tested using:
 
 Postman (primary testing tool)
 
 Scalar (alternative API testing)
 
-📈 Future Improvements
+##📈 Future Improvements
 💳 Payment Gateway integration
 
 🧪 Unit & Integration Testing (xUnit)
 
 🐳 Containerization with Docker
 
-🧪 Getting Started
+##🧪 Getting Started
 1️⃣ Clone the Repository
 bash
 Copy code
