@@ -90,6 +90,8 @@ role → Role (Admin / User)
 
 exp → Expiration timestamp
 
+
+```
 ##📬 API Testing
 The API has been tested using:
 
