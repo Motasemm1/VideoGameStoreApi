@@ -82,6 +82,7 @@ Example JWT Payload:
   "iss": "VideoGameStoreApi",
   "aud": "VideoGameApiUser"
 }
+```
 sub → User ID (GUID)
 
 unique_name → Username
@@ -91,7 +92,7 @@ role → Role (Admin / User)
 exp → Expiration timestamp
 
 
-```
+
 ##📬 API Testing
 The API has been tested using:
 
@@ -109,9 +110,10 @@ Scalar (alternative API testing)
 ##🧪 Getting Started
 1️⃣ Clone the Repository
 bash
-Copy code
+
 git clone https://github.com/Motasemm1/VideoGameStoreApi.git
 cd VideoGameStoreApi
+
 2️⃣ Update Configuration
 Copy appsettings.example.json → appsettings.json
 
@@ -119,12 +121,14 @@ Update your SQL Server connection string and JWT token
 
 3️⃣ Apply Migrations
 bash
-Copy code
+
 dotnet ef database update
+
 4️⃣ Run the Project
 bash
-Copy code
+
 dotnet run
+
 5️⃣ Test the Endpoints
 Use Postman or Scalar to send requests.
 
