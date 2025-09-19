@@ -1,4 +1,4 @@
-## 🎮 VideoGameStoreApi
+# 🎮 VideoGameStoreApi
 
 A fully-featured **RESTful Web API** for a video game store, allowing users to register, browse games, place orders, and manage their purchases.  
 The project follows **Clean Architecture** principles and demonstrates best practices for building scalable .NET applications.
@@ -50,22 +50,23 @@ The solution is structured for **maintainability** and **future scalability**, m
 
 ## 📂 Project Structure
 
-Web/
-├── Controllers/ # User, VideoGame, Order, Genre, Publisher Controllers
-├── Middlewares/ # Exception Middleware
-Application/
-├── DTOs/ # DTOs for Games, Users, Orders, Genres, Publishers
-├── Interfaces/ # Service Interfaces
-└── Services/ # Business Logic
-Infrastructure/
-├── Data/ # EF Core DbContext
-├── Repositories/ # Repository Implementations
-└── Interfaces/ # Repository Interfaces
-Domain/
-└── Entities/ # User, VideoGame, Order, Genre, Publisher, OrderItem
 
-yaml
-Copy code
+Web/
+├── Controllers/        # User, VideoGame, Order, Genre, Publisher Controllers
+├── Middlewares/        # Exception Middleware
+
+Application/
+├── DTOs/               # DTOs for Games, Users, Orders, Genres, Publishers
+├── Interfaces/         # Service Interfaces
+└── Services/           # Business Logic
+
+Infrastructure/
+├── Data/               # EF Core DbContext
+├── Repositories/       # Repository Implementations
+└── Interfaces/         # Repository Interfaces
+
+Domain/
+└── Entities/           # User, VideoGame, Order, Genre, Publisher, OrderItem
 
 ---
 
@@ -92,7 +93,6 @@ role → Role (Admin / User)
 exp → Expiration timestamp
 
 
-
 ##📬 API Testing
 The API has been tested using:
 
@@ -108,8 +108,8 @@ Scalar (alternative API testing)
 🐳 Containerization with Docker
 
 ##🧪 Getting Started
+
 1️⃣ Clone the Repository
-bash
 
 git clone https://github.com/Motasemm1/VideoGameStoreApi.git
 cd VideoGameStoreApi
