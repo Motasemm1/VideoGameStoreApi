@@ -89,7 +89,7 @@ Example JWT Payload:
 ```json
 {
   "sub": "8b19c3e3-0a2d-4b11-95b4-8c2f55e0af93",
-  "unique_name": "john_doe",
+  "unique_name": "motasem_mohamed",
   "role": "Admin",
   "exp": 1734512390,
   "iss": "VideoGameStoreApi",
